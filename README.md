@@ -25,3 +25,11 @@ I specialize in building responsive web apps and RESTful APIs.
 - ## 🛠 Tools & Technologies:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+
+- **VS Code**: Code editor for development.
+- **GitHub**: Version control and repository hosting.
+- **Python**, **Django**, **Django REST Framework** (DRF)
+- **HTML**, **CSS**, **JavaScript**, **Bootstrap**
+- **Git**, **GitLab**, **CI/CD**
+
+
