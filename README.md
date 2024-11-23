@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Sakshi
 
-<!--
-**sakshimphadtare/sakshimphadtare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm a passionate Python and Django developer eager to create innovative web solutions.  
+I specialize in building responsive web apps and RESTful APIs.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on a **Django-based dashboard project**
+- 👯 I’m looking to collaborate on **Python and Django projects**
+- 💬 Ask me about **Python, Django, and SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📫 How to Reach Me:
+- Email: sakshiphadtare17501@example.com
+- LinkedIn: [linkedin.com/in/sakshi-phadtare](https://Linkedin.com/in/sakshi-phadtare)
+- ![Repositories](https://img.shields.io/badge/Repositories-6-blue)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sakshi-phadtare)
+- ![Profile Views](https://komarev.com/ghpvc/?username=sakshi-phadtare&color=brightgreen)
+- ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshimphadtare&show_icons=true&theme=radical)
+
+- ## 🛠 Tools & Technologies:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
